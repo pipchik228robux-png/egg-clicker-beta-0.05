@@ -8,4 +8,4 @@ now you can play it only with downloading the HTML file, in future, maybe, i'm p
 1.download HTML file
 2.open it with your browser or HTML viewer
 3. now you can click the egg!
-# thanks if you will playing it, i hope you enjoy :D
+# thanks if you will play it, i hope you enjoy :D
